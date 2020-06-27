@@ -7,6 +7,8 @@ Navegação - <nav> //com ele podemos cria um Menu por exemplo
 Marcadores - <ul>
 Listas - <li>
 Paragrafo - <p>
-Hyperlink - <a>
+Hyperlink - <a href="">
 Divisão - <div>
 Rodapé - <footer>
+Imagens - <img src="">
+Licando CSS - <link rel="">

@@ -1,4 +1,5 @@
 body{
+    background: darkgray;
     font: 20px Arial, sans-serif;
 }
 .navbar {
@@ -25,6 +26,14 @@ body{
     background-color: black;
     color: white;
 }
-.footer {
+footer {
     text-align: center;
+    font: 10px Arial, sans-serif;
+}
+.img_padrao{
+    margin-bottom: 20px;
+    width: 200px;
+}
+.logo{
+    width: 20px;
 }
